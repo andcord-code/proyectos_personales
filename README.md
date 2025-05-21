@@ -1,6 +1,6 @@
 # 🧠 Portafolio de Ciencia de Datos
 
-Bienvenido a mi portafolio de proyectos en Ciencia de Datos. Aquí encontrarás una colección de trabajos prácticos en machine learning y deep learning en distintos contextos: banca, clasificación de imagenes, psicología e industria automotriz.
+Bienvenido a mi portafolio de proyectos en Ciencia de Datos. Aquí encontrarás una colección de trabajos prácticos en machine learning y deep learning en distintos contextos: banca, clasificación de imagenes y psicología.
 
 Cada proyecto incluye su propio README con la explicación del problema, el enfoque metodológico y los resultados obtenidos.
 
